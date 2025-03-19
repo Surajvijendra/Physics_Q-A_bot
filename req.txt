@@ -1,0 +1,14 @@
+langchain
+ipykernel
+langchain_community
+python-dotenv
+PyPDF
+langchain-text-splitters
+sentence_transformers
+langchain-huggingface
+faiss-cpu
+openai
+transformers
+ctransformers
+streamlit
+import-ipynb
