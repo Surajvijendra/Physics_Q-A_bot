@@ -19,7 +19,7 @@ def load_pdf(file_path):
     pages = loader.load()
     return pages
 
-pdf_texts = load_pdf("D:/my_learnings/physics_pdf_demo.pdf")
+pdf_texts = load_pdf("physics_pdf_demo.pdf")
 
 # Split text into smaller chunks
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=250, chunk_overlap=20)
