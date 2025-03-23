@@ -1,6 +1,6 @@
 langchain
 ipykernel
-langchain_community
+langchain-community
 python-dotenv
 PyPDF
 langchain-text-splitters
